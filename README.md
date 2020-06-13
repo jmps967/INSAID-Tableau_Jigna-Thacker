@@ -12,10 +12,7 @@ As a part of GCD- Term6 Visualization using "Tableau" Project, INSAID : I have t
 
 ## Project Material:
 
-- [Database](https://github.com/jmps967/INSAID-DAR_Jigna-Thacker/blob/master/candy-data.csv)
+- [Database](https://github.com/jmps967/INSAID-Tableau_Jigna-Thacker/blob/master/Titanic.csv)
 
-- [Link for the R notebook](https://github.com/jmps967/INSAID-DAR_Jigna-Thacker/blob/master/Candy_JignaThacker.nb.html)
-
-- [Link for the R Script](https://github.com/jmps967/INSAID-DAR_Jigna-Thacker/blob/master/Candy_JignaThacker.R)
-
-- [Presentation](https://github.com/jmps967/INSAID-DAR_Jigna-Thacker/blob/master/Project-3(DAR_EDA)_Jigna%20Thacker.pdf)
+- [Link for the Tableau Dashboard](https://public.tableau.com/profile/j.t7898#!/vizhome/Project_Term6_Tableau_JignaThacker/TheTitanicStory )
+- [Presentation](https://github.com/jmps967/INSAID-Tableau_Jigna-Thacker/blob/master/Project-4(Tableau)_Jigna%20Thacker-Fin.ppsx)
