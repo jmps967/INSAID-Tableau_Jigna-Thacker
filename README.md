@@ -2,7 +2,7 @@
 ## Titanic Data - Visualization using "Tableau" - INSAID GCD program
 As a part of GCD- Term6 Visualization using "Tableau" Project, INSAID : I have taken Titanic database to perform Data Analysis and Visualization with "Tableau" Story Board .
 
-![image.png](https://raw.githubusercontent.com/jmps967/INSAID-Tableau_Jigna-Thacker/master/9e53f1d8cbb9c612-.gif)
+![image.gif](https://raw.githubusercontent.com/jmps967/INSAID-Tableau_Jigna-Thacker/master/9e53f1d8cbb9c612-.gif)
 
 ### Project Brief:
 - Dataset information : “Titanic.csv” 
